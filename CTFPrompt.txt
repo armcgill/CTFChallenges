@@ -2,11 +2,13 @@
 A new cryptographic exchange method used in RFC 2409 is supposedly unbreakable. There is something 
 about this that looks familiar - I wonder if you can discover the shared secret between them. 
 
-p = 9834
-g = 825
+p = 9839 
+g = 823
 
-A = 5841
-B = 627
+
+A = 6781
+B = 6030
+
 
 Note: Submit the secret wrapped in flag{}
 
